@@ -38,7 +38,7 @@ export interface ImageLinks {
 }
 
 export interface Item {
-    volumeInfo: VolumeInfo
+    volumeInfo: VolumeInfo;
 }
 
 export interface LivrosResultados {
